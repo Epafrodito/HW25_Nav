@@ -1,0 +1,28 @@
+.book {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.phonebook {
+  padding: 25px;
+}
+.search {
+  border: 2px solid rgb(65, 16, 242);
+  border-radius: 10px;
+  height: 20px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+.gender-box {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.info-abonent {
+  background-color: rgb(255, 255, 255);
+  padding: 1px;
+  border: 2px solid rgb(65, 16, 242);
+  border-radius: 10px;
+  margin-bottom: 5px;
+}

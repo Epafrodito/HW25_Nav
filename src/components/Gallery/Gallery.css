@@ -1,0 +1,18 @@
+.box {
+  max-width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.gallery {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 70%;
+  gap: 50px;
+}
+.img {
+  max-width: 250px;
+  max-height: 250px;
+}
